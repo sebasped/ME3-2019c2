@@ -57,6 +57,10 @@
 
 	- **Vencimiento especial de máximo comienzo clase Mié 9-Oct**
 
+9. Explicar la diferencia entre crisis económica y crisis financiera.
+
+	- **Este desafío es especial y tiene un máximo de 1 punto extra.**
+
 ---
 
 ## Material, cursos, tutoriales, bibliografía:

@@ -44,6 +44,9 @@
 6. Explicar el sistema alemán de amortización. (Se puede ver de la sección 7.1.2 del libro de Mate Financiera que figura más abajo).
 
 7. Explicar la TIR (tasa interna de retorno). (Se puede ver de la sección 8.2 del libro de Mate Financiera que figura más abajo).
+
+8. Explicar el método general de resolución de una ecuación en diferencias dada por recurrencia pero que **no** está igualada a cero, por ejemplo:
+![ecdif](https://github.com/sebasped/ME3-2019c2/blob/master/ecdif1.png)
  
 
 ---

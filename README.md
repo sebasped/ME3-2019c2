@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# Mate 3 Econ. - 2019 cuat. 2 - UNGS
 
-You can use the [editor on GitHub](https://github.com/sebasped/ME3-2019c2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Novedades
+- Sáb 05-Oct 13.00 hs: **se agregaron desafíos**.
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Temas semana que viene:
+- 
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Material de clases
+- [Ir a la página del cursito de Python](https://sebasped.github.io/python-mate3-2019c2/)
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## Desafíos
+### Pautas de resolución y entrega
+- Salvo que se **indique lo contrario, todos los desafíos se rigen por todo esto**:
+	* Se les asignará 0.5, 1, 1.5 o 2 puntos, dependiento de cómo sea la exposición y la resolución.
+	* Vencen recién cuando alguien lo resuelve y recibe el puntaje máximo.
+	* Cualquiera en cualquier clase puede hacer uso del derecho a presentar un desafío.
+	* Una misma persona puede presentar un máximo de un desafío por clase.
+	* La cantidad máxima, en total por todas las personas, de desafíos a presentar por clase son dos.
+### Consignas de los desafíos
+1. Explicar por qué si la inflación fue del 50% y los salarios subieron un 40%, la pérdida del poder adquisitivo NO es 10%, y entonces de cuánto es.
 
-**Bold** and _Italic_ and `Code` text
+2. Explicar la aplicación económica "El modelo de la telaraña", en relación a ecuaciones en diferencias de orden 1. (Sección 17.4 según el Alpha Chiang que figura más abajo).
 
-[Link](url) and ![Image](src)
-```
+3. Explicar la aplicación económica "Un modelo de mercado con inventario", en relación a ecuaciones en diferencias de orden 1. (Sección 17.5 según el Alpha Chiang que figura más abajo).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+4. Explicar "Ecuaciones en diferencias no lineales", en relación ecuaciones en diferencias de orden 1. (Sección 17.6 según el Alpha Chiang que figura más abajo).
+- Este desafío es especial y tiene un máximo de 3 puntos extras.
 
-### Jekyll Themes
+5. Explicar cualquier otra aplicación económica o financiera relacionada con ecuaciones en diferencias.
+ - Primero mostrarme para validar la exposición.
+ - De acuerdo a la complejidad y a la exposición, serán los puntos extras asignados.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sebasped/ME3-2019c2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+6. Explicar el sistema alemán de amortización. (Se puede ver de la sección 7.1.2 del libro de Mate Financiera que figura más abajo).
 
-### Support or Contact
+7. Explicar la TIR (tasa interna de retorno). (Se puede ver de la sección 8.2 del libro de Mate Financiera que figura más abajo).
+ 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+
+### Material, cursos, tutoriales, bibliografía:
+- _Métodos fundamentales de economía matemática_, Alpha Chiang, 4ta. ed., McGraw-Hill, 2007.
+- _Todo lo que ustede quiere saber sobre matemática financiera pero no se anima a preguntar_, Kisbye y Levstein, Ministerio de Educación, 2010.
+

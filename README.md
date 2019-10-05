@@ -26,7 +26,6 @@
 	* Vencen recién cuando alguien lo resuelve y recibe el puntaje máximo.
 	* Cualquiera en cualquier clase puede hacer uso del derecho a presentar un desafío.
 	* Una misma persona puede presentar un máximo de un desafío por clase.
-	* La cantidad máxima, en total por todas las personas, de desafíos a presentar por clase son dos.
 
 ### Consignas de los desafíos
 1. Explicar por qué si la inflación fue del 50% y los salarios subieron un 40%, la pérdida del poder adquisitivo NO es 10%, y entonces de cuánto es.

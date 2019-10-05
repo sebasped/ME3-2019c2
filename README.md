@@ -8,7 +8,7 @@
 
 ---
 
-## Temas que se vienen:
+## Temas que se vienen
 - Semana Mié 9-Oct: ecuaciones en diferencias orden 1
 	* Caso por recurrencia pero no igual a cero.
 	* Convergencia, divergencia, oscilación.

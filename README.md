@@ -20,6 +20,7 @@
 - [Demostración Marcos relación cuotas amortización](https://github.com/sebasped/ME3-2019c2/blob/master/demostracionMarcos_relacion_capAmort_y_capitalizacion.jpeg)
 - [Libro Olmos](http://www.mpeargentina.com.ar/wp-content/uploads/2016/03/Deuda-Externa-Alejandro-Olmos.pdf)
 - [Primer examen](https://github.com/sebasped/ME3-2019c2/blob/master/primerExamen.pdf)
+- Término general de 1; 2; 1; 2; 1;...![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ejSucesiones.png)
 
 ---
 

@@ -16,6 +16,7 @@
 
 ## Material de clases
 - [Ir a la página del cursito de Python](https://sebasped.github.io/python-mate3-2019c2/)
+- [Demostración Marcos relación cuotas amortización](https://github.com/sebasped/ME3-2019c2/blob/master/demostracionMarcos_relacion_capAmort_y_capitalizacion.jpeg)
 
 ---
 

@@ -35,10 +35,10 @@
 3. Explicar la aplicación económica "Un modelo de mercado con inventario", en relación a ecuaciones en diferencias de orden 1. (Sección 17.5 según el Alpha Chiang que figura más abajo).
 
 4. Explicar "Ecuaciones en diferencias no lineales", en relación ecuaciones en diferencias de orden 1. (Sección 17.6 según el Alpha Chiang que figura más abajo).
-- Este desafío es especial y tiene un máximo de 3 puntos extras.
+	- Este desafío es especial y tiene un máximo de 3 puntos extras.
 
 5. Explicar cualquier otra aplicación económica o financiera relacionada con ecuaciones en diferencias.
- - Primero mostrarme para validar la exposición.
+	- Primero mostrarme para validar la exposición.
  - De acuerdo a la complejidad y a la exposición, serán los puntos extras asignados.
 
 6. Explicar el sistema alemán de amortización. (Se puede ver de la sección 7.1.2 del libro de Mate Financiera que figura más abajo).
@@ -49,7 +49,7 @@
 
  ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ecdif1.png)
  
- - *Vencimiento especial de máximo comienzo clase Mié 9-Oct*
+	- *Vencimiento especial de máximo comienzo clase Mié 9-Oct*
 
 ---
 

@@ -3,6 +3,7 @@
 ---
 
 ## Novedades
+- Sáb 05-Oct 15.00 hs: **¡Melina anunció que presenta un desafío!**.
 - Sáb 05-Oct 13.00 hs: **se agregaron desafíos**.
 
 ---
@@ -21,6 +22,9 @@
 ---
 
 ## Desafíos
+### Desafíos ya reservados para las clases próximas:
+- Melina quiere contar ecuaciones en diferencias de orden 2.
+
 ### Pautas de resolución y entrega
 - Salvo que se **indique lo contrario, todos los desafíos se rigen por todo esto**:
 	* Se les asignará 0.5, 1, 1.5 o 2 puntos, dependiento de cómo sea la exposición y la resolución.

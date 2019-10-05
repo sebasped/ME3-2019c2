@@ -7,8 +7,10 @@
 
 ---
 
-## Temas semana que viene:
-- 
+## Temas que se vienen:
+- Semana Mié 9-Oct: ecuaciones en diferencias orden 1
+	* Caso por recurrencia pero no igual a cero.
+	* Convergencia, divergencia, oscilación.
 
 ---
 
@@ -25,6 +27,7 @@
 	* Cualquiera en cualquier clase puede hacer uso del derecho a presentar un desafío.
 	* Una misma persona puede presentar un máximo de un desafío por clase.
 	* La cantidad máxima, en total por todas las personas, de desafíos a presentar por clase son dos.
+
 ### Consignas de los desafíos
 1. Explicar por qué si la inflación fue del 50% y los salarios subieron un 40%, la pérdida del poder adquisitivo NO es 10%, y entonces de cuánto es.
 
@@ -46,7 +49,7 @@
 
 ---
 
-### Material, cursos, tutoriales, bibliografía:
+## Material, cursos, tutoriales, bibliografía:
 - _Métodos fundamentales de economía matemática_, Alpha Chiang, 4ta. ed., McGraw-Hill, 2007.
 - _Todo lo que ustede quiere saber sobre matemática financiera pero no se anima a preguntar_, Kisbye y Levstein, Ministerio de Educación, 2010.
 

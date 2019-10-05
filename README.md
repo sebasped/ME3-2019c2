@@ -26,6 +26,7 @@
 	* Se les asignará 0.5, 1, 1.5 o 2 puntos, dependiento de cómo sea la exposición y la resolución.
 	* Vencen recién cuando alguien lo resuelve y recibe el puntaje máximo.
 	* Cualquiera en cualquier clase puede hacer uso del derecho a presentar un desafío.
+	* No se puede preguntar si la resolución del desafío a presentar está bien. Se evaluará durante la exposición.
 	* Una misma persona puede presentar un máximo de un desafío por clase.
 
 ### Consignas de los desafíos

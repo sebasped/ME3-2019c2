@@ -3,7 +3,7 @@
 ---
 
 ## Novedades
-- Sáb 05-Oct 15.00 hs: **¡Melina anunció que presenta un desafío!**.
+- Sáb 05-Oct 15.00 hs: **¡Melina anunció que presenta un desafío!**
 - Sáb 05-Oct 13.00 hs: **se agregaron desafíos**.
 
 ---

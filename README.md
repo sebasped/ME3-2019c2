@@ -47,7 +47,7 @@
 
 8. Explicar el método general de resolución de una ecuación en diferencias de orden 1 dada por recurrencia pero que **no** está igualada a cero, por ejemplo: ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ecdif1.png)
  
-	- *Vencimiento especial de máximo comienzo clase Mié 9-Oct*
+	- **Vencimiento especial de máximo comienzo clase Mié 9-Oct**
 
 ---
 

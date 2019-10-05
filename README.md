@@ -48,6 +48,7 @@
 8. Explicar el método general de resolución de una ecuación en diferencias dada por recurrencia pero que **no** está igualada a cero, por ejemplo: 
 
  - ![](https://github.com/sebasped/ME3-2019c2/blob/master/ecdif1.png "Ec dif")
+ - ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ecdif1.png)
  - [[https://github.com/sebasped/ME3-2019c2/blob/master/ecdif1.png]]
  
 

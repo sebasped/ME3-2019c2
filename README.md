@@ -45,7 +45,9 @@
 
 7. Explicar la TIR (tasa interna de retorno). (Se puede ver de la sección 8.2 del libro de Mate Financiera que figura más abajo).
 
-8. Explicar el método general de resolución de una ecuación en diferencias dada por recurrencia pero que **no** está igualada a cero, por ejemplo: ![](https://github.com/sebasped/ME3-2019c2/blob/master/ecdif1.png "Ec dif")
+8. Explicar el método general de resolución de una ecuación en diferencias dada por recurrencia pero que **no** está igualada a cero, por ejemplo: 
+
+ - ![](https://github.com/sebasped/ME3-2019c2/blob/master/ecdif1.png "Ec dif")
  
 
 ---

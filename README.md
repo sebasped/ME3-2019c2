@@ -1,13 +1,10 @@
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-{% include lib/mathjax.html %}
-
 # Mate 3 Econ. - 2019 cuat. 2 - UNGS
 
 ---
 
 ## Novedades
 - Sáb 05-Oct 15.00 hs: **¡Melina anunció que presenta un desafío!**
-- Sáb 05-Oct 13.00 hs: **se agregaron desafíos**. $$\forall x$$
+- Sáb 05-Oct 13.00 hs: **se agregaron desafíos**.
 
 ---
 
@@ -44,7 +41,7 @@
 3. Explicar la aplicación económica "Un modelo de mercado con inventario", en relación a ecuaciones en diferencias de orden 1. (Sección 17.5 según el Alpha Chiang que figura más abajo).
 
 4. Explicar "Ecuaciones en diferencias no lineales", en relación ecuaciones en diferencias de orden 1. (Sección 17.6 según el Alpha Chiang que figura más abajo).
-	- Este desafío es especial y tiene un máximo de 3 puntos extras.
+	- **Este desafío es especial y tiene un máximo de 3 puntos extras.**
 
 5. Explicar cualquier otra aplicación económica o financiera relacionada con ecuaciones en diferencias.
 	- Primero mostrarme para validar la exposición.
@@ -58,8 +55,6 @@
 
 	- ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ecdif1.png)
 
-	- ![](http://bit.ly/31PVVmR)
- 
 	- **Vencimiento especial de máximo comienzo clase Mié 9-Oct**
 
 ---

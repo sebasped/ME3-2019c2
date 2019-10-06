@@ -24,6 +24,9 @@
 
 	* ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ejSucesiones.png)
 
+### Prácticas
+- [Ir a la página del cursito de Python](https://sebasped.github.io/python-mate3-2019c2/)
+
 
 ---
 

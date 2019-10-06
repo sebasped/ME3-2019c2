@@ -29,9 +29,9 @@
 ### Prácticas
 - [Práctica ecuaciones exponenciales](https://github.com/sebasped/ME3-2019c2/blob/master/practicaExponenciales.pdf)
 - [Práctica interés compuesto](https://github.com/sebasped/ME3-2019c2/blob/master/practicaInteresCompuesto.pdf)
-- [Práctica equivalencia tasas](https://github.com/sebasped/ME3-2019c2/blob/master/practicaExponenciales.pdf)
-- [Práctica Rentas](https://github.com/sebasped/ME3-2019c2/blob/master/practicaExponenciales.pdf)
-- [Práctica sistemas amortización](https://github.com/sebasped/ME3-2019c2/blob/master/practicaExponenciales.pdf)
+- [Práctica equivalencia tasas](https://github.com/sebasped/ME3-2019c2/blob/master/practicaEquivalenciaTasas.pdf)
+- [Práctica Rentas](https://github.com/sebasped/ME3-2019c2/blob/master/practicaRentas.pdf)
+- [Práctica sistemas amortización](https://github.com/sebasped/ME3-2019c2/blob/master/practicaSistemasAmortizacion.pdf)
 - [Práctica ecuaciones en diferencias](https://github.com/sebasped/ME3-2019c2/blob/master/practicaEcuacionesDiferencias.pdf)
 
 

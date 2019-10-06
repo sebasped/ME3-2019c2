@@ -3,6 +3,7 @@
 ---
 
 ## Novedades
+- Dom 06-Oct 15.00 hs: **se agregó un desafío**.
 - Sáb 05-Oct 22.15 hs: **se creó la subsección "Cursos online gratuitos" dentro de la sección "Libros, cursos y tutoriales"**.
 - Sáb 05-Oct 21.40 hs: **se creó la sección "Fechas importantes"**.
 - Sáb 05-Oct 21.30 hs: **se actualizó la sección "Material de la cursada"**.
@@ -79,6 +80,9 @@
 
 9. Explicar la diferencia entre crisis económica y crisis financiera.
 	- **Este desafío es especial y tiene un máximo de 1 punto extra.**
+
+10. Explicar, mediante conceptos y ejemplos claves, las ideas centrales de la primera parte de la materia (es decir de Matemática Financiera).
+	- **Este desafío es especial: tiene un máximo de 3 puntos extras y suman para el 1er. examen.**
 
 ---
 

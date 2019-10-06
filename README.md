@@ -22,7 +22,7 @@
 - [Primer examen](https://github.com/sebasped/ME3-2019c2/blob/master/primerExamen.pdf)
 - Término general de 1; 2; 1; 2; 1;...
 
-	* ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ejSuceciones.png)
+	* ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ejSucesiones.png)
 
 
 ---

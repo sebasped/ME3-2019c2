@@ -38,7 +38,7 @@
 ---
 
 ## Desafíos
-### Desafíos ya reservados para las clases próximas:
+### Desafíos ya reservados para las clases próximas
 - Melina quiere contar ecuaciones en diferencias de orden 2.
 
 ### Pautas de resolución y entrega
@@ -79,7 +79,7 @@
 
 ---
 
-## Material, cursos, tutoriales, bibliografía:
+## Material, cursos, tutoriales, bibliografía
 - _Métodos fundamentales de economía matemática_, Alpha Chiang, 4ta. ed., McGraw-Hill, 2007.
 - _Todo lo que ustede quiere saber sobre matemática financiera pero no se anima a preguntar_, Kisbye y Levstein, Ministerio de Educación, 2010.
 

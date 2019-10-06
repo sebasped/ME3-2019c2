@@ -88,5 +88,5 @@
 - _Todo lo que ustede quiere saber sobre matemática financiera pero no se anima a preguntar_, Kisbye y Levstein, Ministerio de Educación, 2010.
 
 ### Cursos online gratuitos
-- [Coursera, Finanzas corporativas, 6 cursos:](https://www.coursera.org/specializations/finanzascorporativas/)
+- [Coursera, Finanzas corporativas, 6 cursos.](https://www.coursera.org/specializations/finanzascorporativas/)
 

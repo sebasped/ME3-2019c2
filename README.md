@@ -3,6 +3,7 @@
 ---
 
 ## Novedades
+- Sáb 05-Oct 22.15 hs: **se creó la subsección "Cursos online gratuitos" dentro de la sección "Libros, cursos y tutoriales"**.
 - Sáb 05-Oct 21.40 hs: **se creó la sección "Fechas importantes"**.
 - Sáb 05-Oct 21.30 hs: **se actualizó la sección "Material de la cursada"**.
 - Sáb 05-Oct 15.00 hs: **¡Melina anunció que presenta un desafío!**
@@ -81,7 +82,11 @@
 
 ---
 
-## Material, cursos, tutoriales, bibliografía
+## Libros, cursos y tutoriales
+### Libros
 - _Métodos fundamentales de economía matemática_, Alpha Chiang, 4ta. ed., McGraw-Hill, 2007.
 - _Todo lo que ustede quiere saber sobre matemática financiera pero no se anima a preguntar_, Kisbye y Levstein, Ministerio de Educación, 2010.
+
+### Cursos online gratuitos
+- [Coursera, Finanzas corporativas, 6 cursos:](https://www.coursera.org/specializations/finanzascorporativas/)
 

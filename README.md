@@ -49,18 +49,26 @@
 
 ### Consignas de los desafíos
 1. Explicar por qué si la inflación fue del 50% y los salarios subieron un 40%, la pérdida del poder adquisitivo NO es 10%, y entonces de cuánto es.
+
 2. Explicar la aplicación económica "El modelo de la telaraña", en relación a ecuaciones en diferencias de orden 1. (Sección 17.4 según el Alpha Chiang que figura más abajo).
+
 3. Explicar la aplicación económica "Un modelo de mercado con inventario", en relación a ecuaciones en diferencias de orden 1. (Sección 17.5 según el Alpha Chiang que figura más abajo).
+
 4. Explicar "Ecuaciones en diferencias no lineales", en relación ecuaciones en diferencias de orden 1. (Sección 17.6 según el Alpha Chiang que figura más abajo).
 	- **Este desafío es especial y tiene un máximo de 3 puntos extras.**
+
 5. Explicar cualquier otra aplicación económica o financiera relacionada con ecuaciones en diferencias.
 	- Primero mostrarme para validar la exposición.
 	- De acuerdo a la complejidad y a la exposición, serán los puntos extras asignados.
+
 6. Explicar el sistema alemán de amortización. (Se puede ver de la sección 7.1.2 del libro de Mate Financiera que figura más abajo).
+
 7. Explicar la TIR (tasa interna de retorno). (Se puede ver de la sección 8.2 del libro de Mate Financiera que figura más abajo).
+
 8. Explicar el método general de resolución de una ecuación en diferencias de orden 1 dada por recurrencia pero que **no** está igualada a cero, por ejemplo:
 	- ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ecdif1.png)
 	- **Vencimiento especial de máximo comienzo clase Mié 9-Oct**
+
 9. Explicar la diferencia entre crisis económica y crisis financiera.
 	- **Este desafío es especial y tiene un máximo de 1 punto extra.**
 

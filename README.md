@@ -27,11 +27,11 @@
 - [Problemas Mate Financiera Vie 06-Sep](https://github.com/sebasped/ME3-2019c2/blob/master/problemasVie06sep2019.pdf)
 
 ### Prácticas
-- [Práctica ecuaciones exponenciales](ttps://github.com/sebasped/ME3-2019c2/blob/master/practicaExponenciales.pdf)
-- [Práctica interés compuesto](ttps://github.com/sebasped/ME3-2019c2/blob/master/practicaInteresCompuesto.pdf)
-- [Práctica equivalencia tasas](ttps://github.com/sebasped/ME3-2019c2/blob/master/practicaExponenciales.pdf)
-- [Práctica Rentas](ttps://github.com/sebasped/ME3-2019c2/blob/master/practicaExponenciales.pdf)
-- [Práctica sistemas amortización](ttps://github.com/sebasped/ME3-2019c2/blob/master/practicaExponenciales.pdf)
+- [Práctica ecuaciones exponenciales](https://github.com/sebasped/ME3-2019c2/blob/master/practicaExponenciales.pdf)
+- [Práctica interés compuesto](https://github.com/sebasped/ME3-2019c2/blob/master/practicaInteresCompuesto.pdf)
+- [Práctica equivalencia tasas](https://github.com/sebasped/ME3-2019c2/blob/master/practicaExponenciales.pdf)
+- [Práctica Rentas](https://github.com/sebasped/ME3-2019c2/blob/master/practicaExponenciales.pdf)
+- [Práctica sistemas amortización](https://github.com/sebasped/ME3-2019c2/blob/master/practicaExponenciales.pdf)
 - [Práctica ecuaciones en diferencias](https://github.com/sebasped/ME3-2019c2/blob/master/practicaEcuacionesDiferencias.pdf)
 
 

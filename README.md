@@ -3,7 +3,8 @@
 ---
 
 ## Novedades
-- Sáb 05-Oct 21.30 hs: **Se actualizó la sección "Material de la cursada"**.
+- Sáb 05-Oct 21.40 hs: **se creó la sección "Fechas importantes"**.
+- Sáb 05-Oct 21.30 hs: **se actualizó la sección "Material de la cursada"**.
 - Sáb 05-Oct 15.00 hs: **¡Melina anunció que presenta un desafío!**
 - Sáb 05-Oct 13.00 hs: **se agregaron desafíos**.
 

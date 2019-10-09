@@ -94,3 +94,5 @@
 ### Cursos online gratuitos
 - [Coursera, Finanzas corporativas, 6 cursos.](https://www.coursera.org/specializations/finanzascorporativas/)
 
+### Videos interesantes
+- [Deuda: ¿Qué es la salida "a la Uruguaya"?](https://www.youtube.com/watch?v=hQsiA4hpMOE): unos minutitos de un video que trata temas financieros de la materia. Parte del programa "Desafío 2019" emitido por C5N el 07/Oct/2019.

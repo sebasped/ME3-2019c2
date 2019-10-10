@@ -72,8 +72,10 @@
 	- De acuerdo a la complejidad y a la exposición, serán los puntos extras asignados.
 
 6. Explicar el sistema alemán de amortización. (Se puede ver de la sección 7.1.2 del libro de Mate Financiera que figura más abajo).
+	- **Este desafío es especial: suma puntos para el 1er. examen.**
 
 7. Explicar la TIR (tasa interna de retorno). (Se puede ver de la sección 8.2 del libro de Mate Financiera que figura más abajo).
+	- **Este desafío es especial: suma puntos para el 1er. examen.**
 
 9. Explicar la diferencia entre crisis económica y crisis financiera.
 	- **Este desafío es especial y tiene un máximo de 1 punto extra.**

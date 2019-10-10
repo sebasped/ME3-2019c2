@@ -3,6 +3,7 @@
 ---
 
 ## Novedades
+- Jue 10-Oct 11.00 hs: **se agregó un desafío**.
 - Dom 06-Oct 15.00 hs: **se agregó un desafío**.
 - Sáb 05-Oct 22.15 hs: **se creó la subsección "Cursos online gratuitos" dentro de la sección "Libros, cursos y tutoriales"**.
 - Sáb 05-Oct 21.40 hs: **se creó la sección "Fechas importantes"**.
@@ -84,6 +85,10 @@
 
 10. Explicar, mediante conceptos y ejemplos claves, las ideas centrales de la primera parte de la materia (es decir de Matemática Financiera).
 	- **Este desafío es especial: tiene un máximo de 3 puntos extras y suman para el 1er. examen.**
+
+11. Explicar la aplicación económica "Modelo de interacción de multiplicador con acelerador de Samuelson", en relación a ecuaciones en diferencias de orden 2. (Sección 18.2 según el Alpha Chiang que figura más abajo).
+
+11. Explicar la aplicación económica "La inflación y el desempleo en tiempo discreto", en relación a ecuaciones en diferencias de orden 2. (Sección 18.3 según el Alpha Chiang que figura más abajo).
 
 ---
 

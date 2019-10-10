@@ -13,9 +13,9 @@
 ---
 
 ## Temas que se vienen
-- Semana Mié 9-Oct: ecuaciones en diferencias orden 1
-	* Caso por recurrencia pero no igual a cero.
+- Semana Mié 9-Oct: ecuaciones en diferencias
 	* Convergencia, divergencia, oscilación.
+	* Orden 2.
 
 ---
 
@@ -47,6 +47,7 @@
 ## Desafíos
 ### Desafíos ya reservados para las clases próximas
 - Melina quiere contar ecuaciones en diferencias de orden 2.
+	* Lo contó el Mié 09/Oct.
 
 ### Pautas de resolución y entrega
 - Salvo que se **indique lo contrario, todos los desafíos se rigen por todo esto**:

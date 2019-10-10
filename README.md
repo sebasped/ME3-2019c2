@@ -47,8 +47,6 @@
 
 ## Desafíos
 ### Desafíos ya reservados para las clases próximas
-- Melina quiere contar ecuaciones en diferencias de orden 2.
-	* Lo contó el Mié 09/Oct.
 
 ### Pautas de resolución y entrega
 - Salvo que se **indique lo contrario, todos los desafíos se rigen por todo esto**:
@@ -76,10 +74,6 @@
 
 7. Explicar la TIR (tasa interna de retorno). (Se puede ver de la sección 8.2 del libro de Mate Financiera que figura más abajo).
 
-8. Explicar el método general de resolución de una ecuación en diferencias de orden 1 dada por recurrencia pero que **no** está igualada a cero, por ejemplo:
-	- ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ecdif1.png)
-	- **Vencimiento especial de máximo comienzo clase Mié 9-Oct**
-
 9. Explicar la diferencia entre crisis económica y crisis financiera.
 	- **Este desafío es especial y tiene un máximo de 1 punto extra.**
 
@@ -89,6 +83,14 @@
 11. Explicar la aplicación económica "Modelo de interacción de multiplicador con acelerador de Samuelson", en relación a ecuaciones en diferencias de orden 2. (Sección 18.2 según el Alpha Chiang que figura más abajo).
 
 11. Explicar la aplicación económica "La inflación y el desempleo en tiempo discreto", en relación a ecuaciones en diferencias de orden 2. (Sección 18.3 según el Alpha Chiang que figura más abajo).
+
+
+### Desafíos que ya no van
+8. Explicar el método general de resolución de una ecuación en diferencias de orden 1 dada por recurrencia pero que **no** está igualada a cero, por ejemplo:
+	- ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ecdif1.png)
+	- **Vencimiento especial de máximo comienzo clase Mié 9-Oct**
+
+- Ecuaciones en diferencias de orden 2: lo contó Melina el Mié 09/Oct.
 
 ---
 

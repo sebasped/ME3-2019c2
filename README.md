@@ -104,7 +104,7 @@
 	- **Vencimiento especial de máximo comienzo clase Mié 9-Oct**
 
 - Ecuaciones en diferencias de orden 2: lo contó Melina el Mié 09/Oct.
-	* Se le otorgó 3 puntos.
+	* Se le otorgaron 3 puntos.
 
 ---
 

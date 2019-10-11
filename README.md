@@ -16,9 +16,9 @@
 ---
 
 ## Temas que se vienen
-- Semana Mié 9-Oct: ecuaciones en diferencias
-	* Convergencia, divergencia, oscilación.
-	* Orden 2.
+- Semana Mié 16-Oct y Vie 18-Oct:
+	* Ejercitación ecuaciones en diferencias.
+	* Aplicaciones económicas.
 
 ---
 

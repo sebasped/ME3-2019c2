@@ -3,6 +3,7 @@
 ---
 
 ## Novedades
+- Vie 11-Oct 12.00 hs: **`e agregaron dos desafíos**.
 - Jue 10-Oct 11.00 hs: **se agregaron dos desafíos**.
 - Dom 06-Oct 15.00 hs: **se agregó un desafío**.
 - Sáb 05-Oct 22.15 hs: **se creó la subsección "Cursos online gratuitos" dentro de la sección "Libros, cursos y tutoriales"**.
@@ -85,7 +86,11 @@
 
 11. Explicar la aplicación económica "Modelo de interacción de multiplicador con acelerador de Samuelson", en relación a ecuaciones en diferencias de orden 2. (Sección 18.2 según el Alpha Chiang que figura más abajo).
 
-11. Explicar la aplicación económica "La inflación y el desempleo en tiempo discreto", en relación a ecuaciones en diferencias de orden 2. (Sección 18.3 según el Alpha Chiang que figura más abajo).
+12. Explicar la aplicación económica "La inflación y el desempleo en tiempo discreto", en relación a ecuaciones en diferencias de orden 2. (Sección 18.3 según el Alpha Chiang que figura más abajo).
+
+13. Explicar el caso de raíces complejas para ecuaciones en diferencias de orden 2.
+
+14. Explicar convergencia, divergencia y oscilación para ecuaciones en diferencias de orden 2.
 
 
 ### Desafíos que ya no van

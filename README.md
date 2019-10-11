@@ -3,6 +3,7 @@
 ---
 
 ## Novedades
+- Vie 11-Oct 20.45 hs: **se agregó un desafío**.
 - Vie 11-Oct 12.00 hs: **se agregaron dos desafíos**.
 - Jue 10-Oct 11.00 hs: **se agregaron dos desafíos**.
 - Dom 06-Oct 15.00 hs: **se agregó un desafío**.
@@ -92,6 +93,8 @@
 13. Explicar el caso de raíces complejas para ecuaciones en diferencias de orden 2.
 
 14. Explicar convergencia, divergencia y oscilación para ecuaciones en diferencias de orden 2.
+
+15. Explicar cómo resolver una ecuación en diferencias de orden 1 cuya recurrencia está igualada a algo no constante (es decir que depente de t). Por ejemplo el ejercicio 3)7. de la práctica de ecuaciones en diferencias. 
 
 
 ### Desafíos que ya no van

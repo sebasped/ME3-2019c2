@@ -23,7 +23,7 @@
 ---
 
 ## Fechas importantes
-- Semana Lun 18-Nov: tentativa para 2do. examen.
+- Semana Mié 20-Nov y Vie 22-Nov: tentativa para 2do. examen.
 
 ---
 

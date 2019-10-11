@@ -3,7 +3,7 @@
 ---
 
 ## Novedades
-- Vie 11-Oct 12.00 hs: **`e agregaron dos desafíos**.
+- Vie 11-Oct 12.00 hs: **se agregaron dos desafíos**.
 - Jue 10-Oct 11.00 hs: **se agregaron dos desafíos**.
 - Dom 06-Oct 15.00 hs: **se agregó un desafío**.
 - Sáb 05-Oct 22.15 hs: **se creó la subsección "Cursos online gratuitos" dentro de la sección "Libros, cursos y tutoriales"**.

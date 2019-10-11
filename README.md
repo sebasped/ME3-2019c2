@@ -49,6 +49,7 @@
 
 ## Desafíos
 ### Desafíos ya reservados para las clases próximas
+- Ninguno :-(
 
 ### Pautas de resolución y entrega
 - Salvo que se **indique lo contrario, todos los desafíos se rigen por todo esto**:

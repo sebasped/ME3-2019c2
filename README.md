@@ -4,6 +4,7 @@
 
 ## Novedades
 - Vie 11-Oct 20.45 hs: **se agregó un desafío**.
+- Vie 11-Oct 16.00 hs: **¡se reservó un desafío para la semana que viene!**
 - Vie 11-Oct 12.00 hs: **se agregaron dos desafíos**.
 - Jue 10-Oct 11.00 hs: **se agregaron dos desafíos**.
 - Dom 06-Oct 15.00 hs: **se agregó un desafío**.

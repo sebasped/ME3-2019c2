@@ -74,7 +74,7 @@
 
 1. Explicar cualquier otra aplicación económica o financiera relacionada con ecuaciones en diferencias.
 	- Primero mostrarme para validar la exposición.
-	- De acuerdo a la complejidad y a la exposición, serán los puntos extras asignados.
+	- De acuerdo a la complejidad y a la exposición, serán los puntos extras asignados (máximo 3 puntos).
 
 1. Explicar el sistema alemán de amortización. (Se puede ver de la sección 7.1.2 del libro de Mate Financiera que figura más abajo).
 	- **Este desafío es especial: suma puntos para el 1er. examen.**

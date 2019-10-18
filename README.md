@@ -3,6 +3,7 @@
 ---
 
 ## Novedades
+- Vie 18-Oct 11.00 hs: **se agregó un desafío**.
 - Vie 11-Oct 20.45 hs: **se agregó un desafío**.
 - Vie 11-Oct 16.00 hs: **¡se reservó un desafío para la semana que viene!**
 - Vie 11-Oct 12.00 hs: **se agregaron dos desafíos**.
@@ -63,8 +64,6 @@
 	* Una misma persona puede presentar un máximo de un desafío por clase.
 
 ### Consignas de los desafíos
-1. Explicar por qué si la inflación fue del 50% y los salarios subieron un 40%, la pérdida del poder adquisitivo NO es 10%, y entonces de cuánto es.
-
 1. Explicar la aplicación económica "El modelo de la telaraña", en relación a ecuaciones en diferencias de orden 1. (Sección 17.4 según el Alpha Chiang que figura más abajo).
 
 1. Explicar la aplicación económica "Un modelo de mercado con inventario", en relación a ecuaciones en diferencias de orden 1. (Sección 17.5 según el Alpha Chiang que figura más abajo).
@@ -75,9 +74,6 @@
 1. Explicar cualquier otra aplicación económica o financiera relacionada con ecuaciones en diferencias.
 	- Primero mostrarme para validar la exposición.
 	- De acuerdo a la complejidad y a la exposición, serán los puntos extras asignados (máximo 3 puntos).
-
-1. Explicar el sistema alemán de amortización. (Se puede ver de la sección 7.1.2 del libro de Mate Financiera que figura más abajo).
-	- **Este desafío es especial: suma puntos para el 1er. examen.**
 
 1. Explicar la TIR (tasa interna de retorno). (Se puede ver de la sección 8.2 del libro de Mate Financiera que figura más abajo).
 	- **Este desafío es especial: suma puntos para el 1er. examen.**
@@ -98,6 +94,10 @@
 
 1. Explicar cómo resolver una ecuación en diferencias de orden 1 cuya recurrencia está igualada a algo no constante (es decir que depente de t). Por ejemplo el ejercicio 3)7. de la práctica de ecuaciones en diferencias. 
 
+1. Dados los sistemas de amortización francés y alemán, explicar bajo cuáles escenarios económico-financieros es más conveniente uno o el otro (o ambos o ninguno).
+	- **Este desafío es especial: suma puntos para el 1er. examen.**
+	- **Este desafío tiene un bonus de 1 punto extra si se agrega al menos un sistema de amortización más.**
+
 
 ### Desafíos que ya no van
 - Explicar el método general de resolución de una ecuación en diferencias de orden 1 dada por recurrencia pero que **no** está igualada a cero, por ejemplo:
@@ -106,6 +106,12 @@
 
 - Ecuaciones en diferencias de orden 2: lo contó Melina el Mié 09/Oct.
 	* Se le otorgaron 3 puntos.
+
+- Explicar el sistema alemán de amortización. (Se puede ver de la sección 7.1.2 del libro de Mate Financiera que figura más abajo).
+	- Lo contó Gonzalo Silva el Mié 16/Oct. Se le otorgaron 2 puntos para el 1er. examen.
+
+- Explicar por qué si la inflación fue del 50% y los salarios subieron un 40%, la pérdida del poder adquisitivo NO es 10%, y entonces de cuánto es.
+	- Lo contaro Juan Manuel Molina y Santiago Ariel Sapia en dos partes. A cada uno se le otorgó 1 punto.
 
 ---
 

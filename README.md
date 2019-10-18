@@ -3,6 +3,7 @@
 ---
 
 ## Novedades
+- Vie 18-Oct 12.10 hs: **se agregó un desafío**.
 - Vie 18-Oct 11.00 hs: **se agregó un desafío**.
 - Vie 11-Oct 20.45 hs: **se agregó un desafío**.
 - Vie 11-Oct 16.00 hs: **¡se reservó un desafío para la semana que viene!**
@@ -99,6 +100,8 @@
 	- **Este desafío es especial: suma puntos para el 1er. examen.**
 	- **Este desafío tiene un bonus de 1 punto extra si se agrega al menos un sistema de amortización más.**
 
+1. Relacionar cualquier tema de otra materia con un tema de esta materia, mediante algún ejemplo de aplicación en concreto.
+	- **Este desafío es especial: suma puntos para el 1er. examen o para el 2do. examen, a elección de lx expositorx.**
 
 ### Desafíos que ya no van
 - Explicar el método general de resolución de una ecuación en diferencias de orden 1 dada por recurrencia pero que **no** está igualada a cero, por ejemplo:

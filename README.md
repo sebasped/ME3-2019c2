@@ -53,7 +53,7 @@
 
 ## Desafíos
 ### Desafíos ya reservados para las clases próximas
-- Se reservó para el Mié 16-Oct el desafío número 1 (el de inflación, salario y poder adquisitivo).
+- Se reservó el desafío número 6 (diferencia entre crisis económica y crisis financiera).
 
 ### Pautas de resolución y entrega
 - Salvo que se **indique lo contrario, todos los desafíos se rigen por todo esto**:

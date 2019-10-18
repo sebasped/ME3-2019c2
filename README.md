@@ -117,7 +117,7 @@
 	- Lo contó Gonzalo Silva el Mié 16/Oct. Se le otorgaron 2 puntos para el 1er. examen.
 
 - Explicar por qué si la inflación fue del 50% y los salarios subieron un 40%, la pérdida del poder adquisitivo NO es 10%, y entonces de cuánto es.
-	- Lo contaro Juan Manuel Molina y Santiago Ariel Sapia en dos partes. A cada uno se le otorgó 1 punto.
+	- Lo contaron Juan Manuel Molina y Santiago Ariel Sapia en dos partes. A cada uno se le otorgó 1 punto.
 
 ---
 

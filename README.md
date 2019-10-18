@@ -54,6 +54,7 @@
 
 ## Desafíos
 ### Desafíos ya reservados para las clases próximas
+- Se reservó el desafío número 12 (el de ecs. diferencias orden 1 con término no constante). Marcos.
 - Se reservó el desafío número 5 (el de la TIR, tasa interna de retorno). Marina.
 - Se reservó el desafío número 1 (modelo de la telaraña como aplicación de ecuaciones en diferencias de orden 1). David.
 - Se reservó el desafío número 6 (diferencia entre crisis económica y crisis financiera). Melina.

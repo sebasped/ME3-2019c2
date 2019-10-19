@@ -19,9 +19,8 @@
 ---
 
 ## Temas que se vienen
-- Semana Mié 16-Oct y Vie 18-Oct:
-	* Ejercitación ecuaciones en diferencias.
-	* Aplicaciones económicas.
+- Semana Mié 23-Oct y Vie 25-Oct:
+	* Ecuaciones diferenciales orden 1.
 
 ---
 

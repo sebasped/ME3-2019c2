@@ -47,14 +47,15 @@
 - [Práctica sistemas amortización](https://github.com/sebasped/ME3-2019c2/blob/master/practicaSistemasAmortizacion.pdf)
 - [Práctica ecuaciones en diferencias](https://github.com/sebasped/ME3-2019c2/blob/master/practicaEcuacionesDiferencias.pdf)
 	* Y los ejercicios del Alpha Chiang.
+- Práctica ecuaciones diferenciales: del Alpha Chiang.
 
 
 ---
 
 ## Desafíos
 ### Desafíos ya reservados para las clases próximas
-- Se reservó el desafío número 8 (modelo de Samuelson como aplicación a ecuaciones en diferencias de orden 2). Marina.
-- Se reservó el desafío número 6 (diferencia entre crisis económica y crisis financiera). Melina.
+- Se reservó el desafío del modelo de Samuelson como aplicación a ecuaciones en diferencias de orden 2. Marina.
+- Se reservó el desafío de la diferencia entre crisis económica y crisis financiera. Melina.
 
 ### Pautas de resolución y entrega
 - Salvo que se **indique lo contrario, todos los desafíos se rigen por todo esto**:
@@ -94,6 +95,11 @@
 
 1. Relacionar cualquier tema de otra materia con un tema de esta materia, mediante algún ejemplo de aplicación en concreto.
 	- **Este desafío es especial: suma puntos para el 1er. examen o para el 2do. examen, a elección de lx expositorx.**
+
+1. Explicar porqué en el cálculo de la TIR (el desafío que contó Marina) a la ecuación polinómica que queda para resolver solamente se le mira una raíz (cuando puede tener 2, 3, 4, etc. dependiendo del grado del polinomio).
+	- **Este desafío es especial y tiene un máximo de 3 puntos extras.**
+
+1. Explicar cómo resolver la siguiente ecuación en diferencias:
 
 ### Desafíos que ya no van
 - Explicar la aplicación económica "El modelo de la telaraña", en relación a ecuaciones en diferencias de orden 1. (Sección 17.4 según el Alpha Chiang que figura más abajo).

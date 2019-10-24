@@ -54,9 +54,6 @@
 ## Desafíos
 ### Desafíos ya reservados para las clases próximas
 - Se reservó el desafío número 8 (modelo de Samuelson como aplicación a ecuaciones en diferencias de orden 2). Marina.
-- Se reservó el desafío número 12 (el de ecs. diferencias orden 1 con término no constante). Marcos.
-- Se reservó el desafío número 5 (el de la TIR, tasa interna de retorno). Marina.
-- Se reservó el desafío número 1 (modelo de la telaraña como aplicación de ecuaciones en diferencias de orden 1). David.
 - Se reservó el desafío número 6 (diferencia entre crisis económica y crisis financiera). Melina.
 
 ### Pautas de resolución y entrega
@@ -68,8 +65,6 @@
 	* Una misma persona puede presentar un máximo de un desafío por clase.
 
 ### Consignas de los desafíos
-1. Explicar la aplicación económica "El modelo de la telaraña", en relación a ecuaciones en diferencias de orden 1. (Sección 17.4 según el Alpha Chiang que figura más abajo).
-
 1. Explicar la aplicación económica "Un modelo de mercado con inventario", en relación a ecuaciones en diferencias de orden 1. (Sección 17.5 según el Alpha Chiang que figura más abajo).
 
 1. Explicar "Ecuaciones en diferencias no lineales", en relación ecuaciones en diferencias de orden 1. (Sección 17.6 según el Alpha Chiang que figura más abajo).
@@ -78,9 +73,6 @@
 1. Explicar cualquier otra aplicación económica o financiera relacionada con ecuaciones en diferencias.
 	- Primero mostrarme para validar la exposición.
 	- De acuerdo a la complejidad y a la exposición, serán los puntos extras asignados (máximo 3 puntos).
-
-1. Explicar la TIR (tasa interna de retorno). (Se puede ver de la sección 8.2 del libro de Mate Financiera que figura más abajo).
-	- **Este desafío es especial: suma puntos para el 1er. examen.**
 
 1. Explicar la diferencia entre crisis económica y crisis financiera.
 	- **Este desafío es especial y tiene un máximo de 1 punto extra.**
@@ -96,8 +88,6 @@
 
 1. Explicar convergencia, divergencia y oscilación para ecuaciones en diferencias de orden 2.
 
-1. Explicar cómo resolver una ecuación en diferencias de orden 1 cuya recurrencia está igualada a algo no constante (es decir que depente de t). Por ejemplo el ejercicio 3)7. de la práctica de ecuaciones en diferencias. 
-
 1. Dados los sistemas de amortización francés y alemán, explicar bajo cuáles escenarios económico-financieros es más conveniente uno o el otro (o ambos o ninguno).
 	- **Este desafío es especial: suma puntos para el 1er. examen.**
 	- **Este desafío tiene un bonus de 1 punto extra si se agrega al menos un sistema de amortización más.**
@@ -106,6 +96,16 @@
 	- **Este desafío es especial: suma puntos para el 1er. examen o para el 2do. examen, a elección de lx expositorx.**
 
 ### Desafíos que ya no van
+- Explicar la aplicación económica "El modelo de la telaraña", en relación a ecuaciones en diferencias de orden 1. (Sección 17.4 según el Alpha Chiang que figura más abajo).
+	- Lo contó David el Mié 23/Oct. Se le otorgaron 2 puntos.
+
+- Explicar cómo resolver una ecuación en diferencias de orden 1 cuya recurrencia está igualada a algo no constante (es decir que depente de t). Por ejemplo el ejercicio 3)7. de la práctica de ecuaciones en diferencias. 
+	- Lo contó Marcos el Mié 23/Oct. Se le otorgaron 2 puntos.
+
+- Explicar la TIR (tasa interna de retorno). (Se puede ver de la sección 8.2 del libro de Mate Financiera que figura más abajo).
+	- **Este desafío es especial: suma puntos para el 1er. examen.**
+	- Lo contó Marina el Mié 23/Oct. Se le otorgaron 2 puntos.
+
 - Explicar el método general de resolución de una ecuación en diferencias de orden 1 dada por recurrencia pero que **no** está igualada a cero, por ejemplo:
 	- ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ecdif1.png)
 	- **Vencimiento especial de máximo comienzo clase Mié 9-Oct**

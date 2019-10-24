@@ -3,7 +3,7 @@
 ---
 
 ## Novedades
-- Jue 24-Oct 12.30 hs: **se agregaron tres desafíos**.
+- Jue 24-Oct 12.30 hs: **se agregaron cuatro desafíos**.
 - Vie 18-Oct 12.10 hs: **se agregó un desafío**.
 - Vie 18-Oct 11.00 hs: **se agregó un desafío**.
 - Vie 11-Oct 20.45 hs: **se agregó un desafío**.

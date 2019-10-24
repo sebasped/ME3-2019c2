@@ -103,6 +103,9 @@
 	- ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ecdif2.png)
 	- **Este desafío es especial y tiene un máximo de 3 puntos extras.**
 
+1. Encontrar un caso real (actual o histórico) donde se verifique el modelo de la telaraña (el del desafío que contó David).
+
+
 ### Desafíos que ya no van
 - Explicar la aplicación económica "El modelo de la telaraña", en relación a ecuaciones en diferencias de orden 1. (Sección 17.4 según el Alpha Chiang que figura más abajo).
 	- Lo contó David el Mié 23/Oct. Se le otorgaron 2 puntos.

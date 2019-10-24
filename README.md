@@ -99,7 +99,9 @@
 1. Explicar porqué en el cálculo de la TIR (el desafío que contó Marina) a la ecuación polinómica que queda para resolver solamente se le mira una raíz (cuando puede tener 2, 3, 4, etc. dependiendo del grado del polinomio).
 	- **Este desafío es especial y tiene un máximo de 3 puntos extras.**
 
-1. Explicar cómo resolver la siguiente ecuación en diferencias:
+1. Explicar cómo encontrar el término general de la siguiente ecuación en diferencias:
+	- ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ecdif2.png)
+	- **Este desafío es especial y tiene un máximo de 3 puntos extras.**
 
 ### Desafíos que ya no van
 - Explicar la aplicación económica "El modelo de la telaraña", en relación a ecuaciones en diferencias de orden 1. (Sección 17.4 según el Alpha Chiang que figura más abajo).

@@ -121,14 +121,15 @@
 	- ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ecdif1.png)
 	- **Vencimiento especial de máximo comienzo clase Mié 9-Oct**
 
-- Ecuaciones en diferencias de orden 2: lo contó Melina el Mié 09/Oct.
-	* Se le otorgaron 3 puntos.
-
 - Explicar el sistema alemán de amortización. (Se puede ver de la sección 7.1.2 del libro de Mate Financiera que figura más abajo).
 	- Lo contó Gonzalo Silva el Mié 16/Oct. Se le otorgaron 2 puntos para el 1er. examen.
 
 - Explicar por qué si la inflación fue del 50% y los salarios subieron un 40%, la pérdida del poder adquisitivo NO es 10%, y entonces de cuánto es.
 	- Lo contaron Juan Manuel Molina y Santiago Ariel Sapia en dos partes. A cada uno se le otorgó 1 punto.
+
+- Ecuaciones en diferencias de orden 2: lo contó Melina el Mié 09/Oct.
+	* Se le otorgaron 3 puntos.
+
 
 ---
 

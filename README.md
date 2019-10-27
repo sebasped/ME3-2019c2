@@ -3,6 +3,7 @@
 ---
 
 ## Novedades
+- Dom 27-Oct 18.00 hs: **se agregó un desafío**.
 - Jue 24-Oct 12.30 hs: **se agregaron cuatro desafíos**.
 - Vie 18-Oct 12.10 hs: **se agregó un desafío**.
 - Vie 18-Oct 11.00 hs: **se agregó un desafío**.
@@ -20,8 +21,8 @@
 ---
 
 ## Temas que se vienen
-- Semana Mié 23-Oct y Vie 25-Oct:
-	* Ecuaciones diferenciales orden 1.
+- Semana Mié 30-Oct y Vie 01-Nov:
+	* Ecuaciones diferenciales orden 1, caso no constante.
 
 ---
 
@@ -55,6 +56,7 @@
 
 ## Desafíos
 ### Desafíos ya reservados para las clases próximas
+- Se reservó el desafío de explicar conceptos e ideas claves de la primera parte de Matemática financiera.
 - Se reservó el desafío del modelo de Samuelson como aplicación a ecuaciones en diferencias de orden 2. Marina.
 - Se reservó el desafío de la diferencia entre crisis económica y crisis financiera. Melina.
 
@@ -107,6 +109,9 @@
 1. Encontrar un caso real (actual o histórico) donde se verifique el modelo de la telaraña (el del desafío que contó David).
 
 1. Explicar la aplicación económica "El modelo de crecimiento de Domar", en relación al caso de ecuaciones diferenciales que salen integrando. (Sección 14.6 según el Alpha Chiang que figura más abajo).
+
+1. Explicar, mediante ejemplos, cúando una ecuación diferencial sale integrando y cuando no, dejando en claro los problemas cuando no salen integrando.
+	- **Este desafío es especial y tiene un máximo de 1 punto extra.**
 
 ### Desafíos que ya no van
 - Explicar la aplicación económica "El modelo de la telaraña", en relación a ecuaciones en diferencias de orden 1. (Sección 17.4 según el Alpha Chiang que figura más abajo).

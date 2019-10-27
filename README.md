@@ -40,6 +40,7 @@
 - Término general de 1; 2; 1; 2; 1;...
 	* ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ejSucesiones.png)
 - [Problemas Mate Financiera Vie 06-Sep](https://github.com/sebasped/ME3-2019c2/blob/master/problemasVie06sep2019.pdf)
+	* Se le otorgó 1 punto a Adriana por haberlo resuelto sin errores y entregado.
 
 ### Prácticas
 - [Práctica ecuaciones exponenciales](https://github.com/sebasped/ME3-2019c2/blob/master/practicaExponenciales.pdf)

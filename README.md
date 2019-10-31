@@ -144,7 +144,7 @@
 - Explicar por qué si la inflación fue del 50% y los salarios subieron un 40%, la pérdida del poder adquisitivo NO es 10%, y entonces de cuánto es.
 	- Lo contaron Juan Manuel Molina y Santiago Ariel Sapia en dos partes. A cada uno se le otorgó 1 punto.
 	- Este cartel está pegado en la puerta del ICI (Instituto de Ciencias) de la UNGS:
-		- ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/poderAdquisitivo.png)
+		- ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/poderAdquisitivo.jpeg)
 
 - Ecuaciones en diferencias de orden 2: lo contó Melina el Mié 09/Oct.
 	* Se le otorgaron 3 puntos.

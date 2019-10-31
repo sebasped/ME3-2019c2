@@ -117,7 +117,7 @@
 	- **Este desafío es especial y tiene un máximo de 1 punto.**
 
 1. Explicar, mediante ejemplos, la idea de porqué la derivada se puede interpretar como la relación entre la variación de una cantidad respecto a otra.
-	- **Este desafío tiene un bonus de 2 puntos más si la explicación incluye diferenciales.**
+	- **Este desafío tiene un bonus de 1 punto más si la explicación incluye diferenciales.**
 
 ### Desafíos que ya no van
 1. Explicar la diferencia entre crisis económica y crisis financiera.

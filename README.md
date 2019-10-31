@@ -120,7 +120,7 @@
 	- **Este desafío tiene un bonus de 1 punto más si la explicación incluye diferenciales.**
 
 ### Desafíos que ya no van
-1. Explicar la diferencia entre crisis económica y crisis financiera.
+- Explicar la diferencia entre crisis económica y crisis financiera.
 	- **Este desafío es especial y tiene un máximo de 1 punto.**
 	- Lo contó Melina el Mié 28/Oct. Se le otorgó 1 punto.
 

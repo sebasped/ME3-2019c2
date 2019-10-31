@@ -3,6 +3,7 @@
 ---
 
 ## Novedades
+- Jue 31-Oct 12.00 hs: **se agregó un desafío**.
 - Dom 27-Oct 18.00 hs: **se agregó un desafío**.
 - Jue 24-Oct 12.30 hs: **se agregaron cuatro desafíos**.
 - Vie 18-Oct 12.10 hs: **se agregó un desafío**.
@@ -23,6 +24,7 @@
 ## Temas que se vienen
 - Semana Mié 30-Oct y Vie 01-Nov:
 	* Ecuaciones diferenciales orden 1, caso no constante.
+	* Ecuaciones diferenciales: diagrama de fases.
 
 ---
 
@@ -57,9 +59,12 @@
 
 ## Desafíos
 ### Desafíos ya reservados para las clases próximas
-- Se reservó el desafío de explicar conceptos e ideas claves de la primera parte de Matemática financiera.
+- Se reservó el desafío de explicar cómo encontrar el término general de:
+	- ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ecdif2.png)
+	- Lo reservó Marcos.
+- Se reservó el desafío de explicar los escenarios más convenientes para los distintos tipos de amortización. Lo reservó Juan (o Santiago, no recuerdo).
+- Se reservó el desafío de explicar conceptos e ideas claves de la primera parte de Matemática financiera. Agus y Brian.
 - Se reservó el desafío del modelo de Samuelson como aplicación a ecuaciones en diferencias de orden 2. Marina.
-- Se reservó el desafío de la diferencia entre crisis económica y crisis financiera. Melina.
 
 ### Pautas de resolución y entrega
 - Salvo que se **indique lo contrario, todos los desafíos se rigen por todo esto**:
@@ -73,14 +78,11 @@
 1. Explicar la aplicación económica "Un modelo de mercado con inventario", en relación a ecuaciones en diferencias de orden 1. (Sección 17.5 según el Alpha Chiang que figura más abajo).
 
 1. Explicar "Ecuaciones en diferencias no lineales", en relación ecuaciones en diferencias de orden 1. (Sección 17.6 según el Alpha Chiang que figura más abajo).
-	- **Este desafío es especial y tiene un máximo de 3 puntos extras.**
+	- **Este desafío es especial y tiene un máximo de 3 puntos.**
 
 1. Explicar cualquier otra aplicación económica o financiera relacionada con ecuaciones en diferencias.
 	- Primero mostrarme para validar la exposición.
 	- De acuerdo a la complejidad y a la exposición, serán los puntos extras asignados (máximo 3 puntos).
-
-1. Explicar la diferencia entre crisis económica y crisis financiera.
-	- **Este desafío es especial y tiene un máximo de 1 punto extra.**
 
 1. Explicar, mediante conceptos y ejemplos claves, las ideas centrales de la primera parte de la materia (es decir de Matemática Financiera).
 	- **Este desafío es especial: tiene un máximo de 3 puntos extras y suman para el 1er. examen.**
@@ -95,26 +97,33 @@
 
 1. Dados los sistemas de amortización francés y alemán, explicar bajo cuáles escenarios económico-financieros es más conveniente uno o el otro (o ambos o ninguno).
 	- **Este desafío es especial: suma puntos para el 1er. examen.**
-	- **Este desafío tiene un bonus de 1 punto extra si se agrega al menos un sistema de amortización más.**
+	- **Este desafío tiene un bonus de 1 punto más si se agrega al menos un sistema de amortización más.**
 
 1. Relacionar cualquier tema de otra materia con un tema de esta materia, mediante algún ejemplo de aplicación en concreto.
 	- **Este desafío es especial: suma puntos para el 1er. examen o para el 2do. examen, a elección de lx expositorx.**
 
 1. Explicar porqué en el cálculo de la TIR (el desafío que contó Marina) a la ecuación polinómica que queda para resolver solamente se le mira una raíz (cuando puede tener 2, 3, 4, etc. dependiendo del grado del polinomio).
-	- **Este desafío es especial y tiene un máximo de 3 puntos extras.**
+	- **Este desafío es especial y tiene un máximo de 3 puntos.**
 
 1. Explicar cómo encontrar el término general de la siguiente ecuación en diferencias:
 	- ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ecdif2.png)
-	- **Este desafío es especial y tiene un máximo de 3 puntos extras.**
+	- **Este desafío es especial y tiene un máximo de 3 puntos.**
 
 1. Encontrar un caso real (actual o histórico) donde se verifique el modelo de la telaraña (el del desafío que contó David).
 
 1. Explicar la aplicación económica "El modelo de crecimiento de Domar", en relación al caso de ecuaciones diferenciales que salen integrando. (Sección 14.6 según el Alpha Chiang que figura más abajo).
 
 1. Explicar, mediante ejemplos, cúando una ecuación diferencial sale integrando y cuando no, dejando en claro los problemas cuando no salen integrando.
-	- **Este desafío es especial y tiene un máximo de 1 punto extra.**
+	- **Este desafío es especial y tiene un máximo de 1 punto.**
+
+1. Explicar, mediante ejemplos, la idea de porqué la derivada se puede interpretar como la relación entre la variación de una cantidad respecto a otra.
+	- **Este desafío tiene un bonus de 2 puntos más si la explicación incluye diferenciales.**
 
 ### Desafíos que ya no van
+1. Explicar la diferencia entre crisis económica y crisis financiera.
+	- **Este desafío es especial y tiene un máximo de 1 punto.**
+	- Lo contó Melina el Mié 28/Oct. Se le otorgó 1 punto.
+
 - Explicar la aplicación económica "El modelo de la telaraña", en relación a ecuaciones en diferencias de orden 1. (Sección 17.4 según el Alpha Chiang que figura más abajo).
 	- Lo contó David el Mié 23/Oct. Se le otorgaron 2 puntos.
 

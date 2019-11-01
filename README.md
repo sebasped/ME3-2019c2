@@ -62,7 +62,7 @@
 - Se reservó el desafío de explicar cómo encontrar el término general de:
 	- ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ecdif2.png)
 	- Lo reservó Marcos.
-- Se reservó el desafío de explicar los escenarios más convenientes para los distintos tipos de amortización. Lo reservó Juan (o Santiago, no recuerdo).
+- Se reservó el desafío de explicar los escenarios más convenientes para los distintos tipos de amortización. Lo reservó Santiago.
 - Se reservó el desafío de explicar conceptos e ideas claves de la primera parte de Matemática financiera. Agus y Brian.
 - Se reservó el desafío del modelo de Samuelson como aplicación a ecuaciones en diferencias de orden 2. Marina.
 

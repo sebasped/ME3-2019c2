@@ -77,7 +77,7 @@
 1. Explicar "Ecuaciones en diferencias no lineales", en relación ecuaciones en diferencias de orden 1. (Sección 17.6 según el Alpha Chiang que figura más abajo).
 	- **Este desafío es especial y tiene un máximo de 3 puntos.**
 
-1. Explicar cualquier otra aplicación económica o financiera relacionada con ecuaciones en diferencias.
+1. Explicar cualquier otra aplicación económica o financiera relacionada con ecuaciones en diferencias o con ecuaciones diferenciales.
 	- Primero mostrarme para validar la exposición.
 	- De acuerdo a la complejidad y a la exposición, serán los puntos extras asignados (máximo 3 puntos).
 
@@ -112,10 +112,6 @@
 	- **Este desafío es especial: suma 1 punto para el 1er. examen o para el 2do. examen, a elección de lx expositorx.**
 
 1. Explicar la razón fundamental por la cual algunas recurrencias de ecuaciones en diferencias tienen término general exponencial, y otras no.
-
-1. Explicar cualquier otra aplicación económica o financiera relacionada con ecuaciones diferenciales.
-	- Primero mostrarme para validar la exposición.
-	- De acuerdo a la complejidad y a la exposición, serán los puntos extras asignados (máximo 3 puntos).
 
 
 

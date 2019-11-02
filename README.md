@@ -59,10 +59,7 @@
 
 ## Desafíos
 ### Desafíos ya reservados para las clases próximas
-- Se reservó el desafío de explicar cómo encontrar el término general de:
-	- ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ecdif2.png)
-	- Lo reservó Marcos.
-- Se reservó el desafío de explicar los escenarios más convenientes para los distintos tipos de amortización. Lo reservó Santiago.
+- Se reservó el desafío de relacionar cualquier tema de otra materia con un tema de esta materia, mediante una aplicación en concreto. Melina reservó algo de teoría de juegos.
 - Se reservó el desafío de explicar conceptos e ideas claves de la primera parte de Matemática financiera. Agus y Brian.
 - Se reservó el desafío del modelo de Samuelson como aplicación a ecuaciones en diferencias de orden 2. Marina.
 
@@ -95,18 +92,10 @@
 
 1. Explicar convergencia, divergencia y oscilación para ecuaciones en diferencias de orden 2.
 
-1. Dados los sistemas de amortización francés y alemán, explicar bajo cuáles escenarios económico-financieros es más conveniente uno o el otro (o ambos o ninguno).
-	- **Este desafío es especial: suma puntos para el 1er. examen.**
-	- **Este desafío tiene un bonus de 1 punto más si se agrega al menos un sistema de amortización más.**
-
 1. Relacionar cualquier tema de otra materia con un tema de esta materia, mediante algún ejemplo de aplicación en concreto.
 	- **Este desafío es especial: suma puntos para el 1er. examen o para el 2do. examen, a elección de lx expositorx.**
 
 1. Explicar porqué en el cálculo de la TIR (el desafío que contó Marina) a la ecuación polinómica que queda para resolver solamente se le mira una raíz (cuando puede tener 2, 3, 4, etc. dependiendo del grado del polinomio).
-	- **Este desafío es especial y tiene un máximo de 3 puntos.**
-
-1. Explicar cómo encontrar el término general de la siguiente ecuación en diferencias:
-	- ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ecdif2.png)
 	- **Este desafío es especial y tiene un máximo de 3 puntos.**
 
 1. Encontrar un caso real (actual o histórico) donde se verifique el modelo de la telaraña (el del desafío que contó David).
@@ -119,7 +108,27 @@
 1. Explicar, mediante ejemplos, la idea de porqué la derivada se puede interpretar como la relación entre la variación de una cantidad respecto a otra.
 	- **Este desafío tiene un bonus de 1 punto más si la explicación incluye diferenciales.**
 
+1. Encontrar y explicar algún indicador económico que se dé mediante la mediana.
+	- **Este desafío es especial: suma 1 punto para el 1er. examen o para el 2do. examen, a elección de lx expositorx.**
+
+1. Explicar la razón fundamental por la cual algunas recurrencias de ecuaciones en diferencias tienen término general exponencial, y otras no.
+
+
 ### Desafíos que ya no van
+1. Relacionar cualquier tema de otra materia con un tema de esta materia, mediante algún ejemplo de aplicación en concreto.
+	- **Este desafío es especial: suma puntos para el 1er. examen o para el 2do. examen, a elección de lx expositorx.**
+	- Lo contó Wanda el Vie 31/Oct. Se le otorgaron 2 puntos. Contó una aplicación al cálculo de salario medio representativo, mediante promedio común, promedio podado y mediana.
+
+- Explicar cómo encontrar el término general de la siguiente ecuación en diferencias:
+	- ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ecdif2.png)
+	- **Este desafío es especial y tiene un máximo de 3 puntos.**
+	- Lo contó Marcos el Vie 31/Oct. Se le otorgaron 3 puntos.
+
+- Dados los sistemas de amortización francés y alemán, explicar bajo cuáles escenarios económico-financieros es más conveniente uno o el otro (o ambos o ninguno).
+	- **Este desafío es especial: suma puntos para el 1er. examen.**
+	- **Este desafío tiene un bonus de 1 punto más si se agrega al menos un sistema de amortización más.**
+	- Lo contó Santiago el Vie 31/Oct. Se le otorgaron 2 puntos.
+
 - Explicar la diferencia entre crisis económica y crisis financiera.
 	- **Este desafío es especial y tiene un máximo de 1 punto.**
 	- Lo contó Melina el Mié 28/Oct. Se le otorgó 1 punto.

@@ -3,6 +3,10 @@
 ---
 
 ## Novedades
+- Sáb 02-Nov 12.00 hs: 
+	* **se agregaron dos desafíos**.
+	* **se fijó la fecha del segundo examen: Vie 22-Nov**.
+	* **se agregaron el problema y las preguntas del Vie 01-Nov del final de la clase**.
 - Jue 31-Oct 12.00 hs: **se agregó un desafío**.
 - Dom 27-Oct 18.00 hs: **se agregó un desafío**.
 - Jue 24-Oct 12.30 hs: **se agregaron cuatro desafíos**.
@@ -29,7 +33,7 @@
 ---
 
 ## Fechas importantes
-- Semana Mié 20-Nov y Vie 22-Nov: tentativa para 2do. examen.
+- Segundo examen: Vie 22-Nov 14 hs.
 
 ---
 
@@ -43,7 +47,7 @@
 	* ![](https://raw.githubusercontent.com/sebasped/ME3-2019c2/master/ejSucesiones.png)
 - [Problemas Mate Financiera Vie 06-Sep](https://github.com/sebasped/ME3-2019c2/blob/master/problemasVie06sep2019.pdf)
 	* Se le otorgó 1 punto a Adriana por haberlo resuelto sin errores y entregado.
-- [Problema y preguntas Vie 31-Oct](https://github.com/sebasped/ME3-2019c2/blob/master/problemasVie31oct2019.pdf)
+- [Problema y preguntas Vie 01-Nov](https://github.com/sebasped/ME3-2019c2/blob/master/problemasVie01nov2019.pdf)
 
 ### Prácticas
 - [Práctica ecuaciones exponenciales](https://github.com/sebasped/ME3-2019c2/blob/master/practicaExponenciales.pdf)

@@ -113,6 +113,11 @@
 
 1. Explicar la razón fundamental por la cual algunas recurrencias de ecuaciones en diferencias tienen término general exponencial, y otras no.
 
+1. Explicar cualquier otra aplicación económica o financiera relacionada con ecuaciones diferenciales.
+	- Primero mostrarme para validar la exposición.
+	- De acuerdo a la complejidad y a la exposición, serán los puntos extras asignados (máximo 3 puntos).
+
+
 
 ### Desafíos que ya no van
 1. Relacionar cualquier tema de otra materia con un tema de esta materia, mediante algún ejemplo de aplicación en concreto.

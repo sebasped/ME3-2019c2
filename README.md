@@ -26,7 +26,7 @@
 ---
 
 ## Temas que se vienen
-- Semana Mié 30-Oct y Vie 01-Nov:
+- Semana Mié 06-Nov y Vie 08-Nov:
 	* Puesta en común sobre los ejercicios del final de la clase del Vie 01-Nov.
 	* Ecuaciones diferenciales orden 1, caso no constante.
 	* Diagrama de fases para sistemas de Ecuaciones diferenciales orden 1, caso constante y lineal.

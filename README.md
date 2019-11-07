@@ -66,7 +66,6 @@
 ## Desafíos
 ### Desafíos ya reservados para las clases próximas
 - Se reservó el desafío de relacionar cualquier tema de otra materia con un tema de esta materia, mediante una aplicación en concreto. Melina reservó algo de teoría de juegos.
-- Se reservó el desafío de explicar conceptos e ideas claves de la primera parte de Matemática financiera. Agus y Brian.
 - Se reservó el desafío del modelo de Samuelson como aplicación a ecuaciones en diferencias de orden 2. Marina.
 
 ### Pautas de resolución y entrega
@@ -86,9 +85,6 @@
 1. Explicar cualquier otra aplicación económica o financiera relacionada con ecuaciones en diferencias o con ecuaciones diferenciales.
 	- Primero mostrarme para validar la exposición.
 	- De acuerdo a la complejidad y a la exposición, serán los puntos extras asignados (máximo 3 puntos).
-
-1. Explicar, mediante conceptos y ejemplos claves, las ideas centrales de la primera parte de la materia (es decir de Matemática Financiera).
-	- **Este desafío es especial: tiene un máximo de 3 puntos extras y suman para el 1er. examen.**
 
 1. Explicar la aplicación económica "Modelo de interacción de multiplicador con acelerador de Samuelson", en relación a ecuaciones en diferencias de orden 2. (Sección 18.2 según el Alpha Chiang que figura más abajo).
 
@@ -122,7 +118,11 @@
 
 
 ### Desafíos que ya no van
-1. Relacionar cualquier tema de otra materia con un tema de esta materia, mediante algún ejemplo de aplicación en concreto.
+- Explicar, mediante conceptos y ejemplos claves, las ideas centrales de la primera parte de la materia (es decir de Matemática Financiera).
+	- **Este desafío es especial: tiene un máximo de 3 puntos extras y suman para el 1er. examen.**
+	- Lo contaron Agus y Brian. Se le otorgaron 2 puntos a cada unx.
+
+- Relacionar cualquier tema de otra materia con un tema de esta materia, mediante algún ejemplo de aplicación en concreto.
 	- **Este desafío es especial: suma puntos para el 1er. examen o para el 2do. examen, a elección de lx expositorx.**
 	- Lo contó Wanda el Vie 31/Oct. Se le otorgaron 2 puntos. Contó una aplicación al cálculo de salario medio representativo, mediante promedio común, promedio podado y mediana.
 

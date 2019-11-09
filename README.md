@@ -66,7 +66,6 @@
 ## Desafíos
 ### Desafíos ya reservados para las clases próximas
 - Se reservó el desafío de relacionar cualquier tema de otra materia con un tema de esta materia, mediante una aplicación en concreto. Melina reservó algo de teoría de juegos.
-- Se reservó el desafío del modelo de Samuelson como aplicación a ecuaciones en diferencias de orden 2. Marina.
 
 ### Pautas de resolución y entrega
 - Salvo que se **indique lo contrario, todos los desafíos se rigen por todo esto**:
@@ -85,8 +84,6 @@
 1. Explicar cualquier otra aplicación económica o financiera relacionada con ecuaciones en diferencias o con ecuaciones diferenciales.
 	- Primero mostrarme para validar la exposición.
 	- De acuerdo a la complejidad y a la exposición, serán los puntos extras asignados (máximo 3 puntos).
-
-1. Explicar la aplicación económica "Modelo de interacción de multiplicador con acelerador de Samuelson", en relación a ecuaciones en diferencias de orden 2. (Sección 18.2 según el Alpha Chiang que figura más abajo).
 
 1. Explicar la aplicación económica "La inflación y el desempleo en tiempo discreto", en relación a ecuaciones en diferencias de orden 2. (Sección 18.3 según el Alpha Chiang que figura más abajo).
 
@@ -118,6 +115,12 @@
 
 
 ### Desafíos que ya no van
+- Explicar por qué la propuesta de solución de ecuaciones en diferencias de orden 1 para el caso constante, no funciona para el caso no constante.
+	- Lo contaron Melisa y Marlene. Se le otorgaron 1 punto a cada una.
+
+- Explicar la aplicación económica "Modelo de interacción de multiplicador con acelerador de Samuelson", en relación a ecuaciones en diferencias de orden 2. (Sección 18.2 según el Alpha Chiang que figura más abajo).
+	- Lo contó Marina el Vie 08-Nov. Se le otorgaron 3 puntos (punto adicional por además relacionar con otra materia).
+
 - Explicar, mediante conceptos y ejemplos claves, las ideas centrales de la primera parte de la materia (es decir de Matemática Financiera).
 	- **Este desafío es especial: tiene un máximo de 3 puntos extras y suman para el 1er. examen.**
 	- Lo contaron Agus y Brian. Se le otorgaron 2 puntos a cada unx.

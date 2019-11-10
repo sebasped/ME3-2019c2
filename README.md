@@ -27,10 +27,8 @@
 ---
 
 ## Temas que se vienen
-- Semana Mié 06-Nov y Vie 08-Nov:
-	* Puesta en común sobre los ejercicios del final de la clase del Vie 01-Nov.
-	* Ecuaciones diferenciales orden 1, caso no constante.
-	* Diagrama de fases para sistemas de Ecuaciones diferenciales orden 1, caso constante y lineal.
+- Semana Mié 13-Nov y Vie 15-Nov:
+	* Teoría de juegos aplicada a la economía.
 
 ---
 

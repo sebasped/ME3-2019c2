@@ -50,6 +50,10 @@
 	* Se le otorgó 1 punto a Adriana por haberlo resuelto sin errores y entregado.
 - [Problema y preguntas Vie 01-Nov](https://github.com/sebasped/ME3-2019c2/blob/master/problemasVie01nov2019.pdf)
 
+- [La teoría de los juegos y del comportamiento económico, Oskar Morgenstern (1955)](http://sedici.unlp.edu.ar/bitstream/handle/10915/8865/Documento_completo.pdf?sequence=1&isAllowed=y)
+
+- [Morgenstern, Oskar and John von Neumann (1947) The Theory of Games and Economic Behavior Princeton University Press](https://ia801901.us.archive.org/18/items/in.ernet.dli.2015.215284/2015.215284.Theory-Of.pdf)
+
 ### Prácticas
 - [Práctica ecuaciones exponenciales](https://github.com/sebasped/ME3-2019c2/blob/master/practicaExponenciales.pdf)
 - [Práctica interés compuesto](https://github.com/sebasped/ME3-2019c2/blob/master/practicaInteresCompuesto.pdf)

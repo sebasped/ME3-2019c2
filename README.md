@@ -3,6 +3,7 @@
 ---
 
 ## Novedades
+- Dom 10-Nov 17.00 hs: **se agregó material sobre teoría de juegos aplicada a la economía**.
 - Sáb 02-Nov 12.00 hs: 
 	* **se agregaron dos desafíos**.
 	* **se fijó la fecha del segundo examen: Vie 22-Nov**.

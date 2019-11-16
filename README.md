@@ -27,8 +27,8 @@
 ---
 
 ## Temas que se vienen
-- Semana Mié 13-Nov y Vie 15-Nov:
-	* Teoría de juegos aplicada a la economía.
+- Semana Mié 20-Nov y Vie 22-Nov:
+	* Repaso, consultas y segundo examen.
 
 ---
 
@@ -68,7 +68,6 @@
 
 ## Desafíos
 ### Desafíos ya reservados para las clases próximas
-- Se reservó el desafío de relacionar cualquier tema de otra materia con un tema de esta materia, mediante una aplicación en concreto. Melina reservó algo de teoría de juegos.
 
 ### Pautas de resolución y entrega
 - Salvo que se **indique lo contrario, todos los desafíos se rigen por todo esto**:
@@ -116,8 +115,11 @@
 1. Explicar la razón fundamental por la cual algunas recurrencias de ecuaciones en diferencias tienen término general exponencial, y otras no.
 
 
-
 ### Desafíos que ya no van
+- Relacionar cualquier tema de otra materia con un tema de esta materia, mediante algún ejemplo de aplicación en concreto.
+	- **Este desafío es especial: suma puntos para el 1er. examen o para el 2do. examen, a elección de lx expositorx.**
+	- Lo contó Melina el Mié 13/Nov. Se le otorgaron 2 puntos. Contó una aplicación a la teoría de juegos.
+
 - Explicar por qué la propuesta de solución de ecuaciones en diferencias de orden 1 para el caso constante, no funciona para el caso no constante.
 	- Lo contaron Melisa y Marlene. Se le otorgaron 1 punto a cada una.
 

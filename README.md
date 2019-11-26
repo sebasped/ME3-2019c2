@@ -33,7 +33,7 @@
 ---
 
 ## Fechas importantes
-- Recuperatorio: Vie 27-Nov 14 hs.
+- Recuperatorio: Vie 29-Nov 14 hs.
 
 ---
 

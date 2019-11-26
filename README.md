@@ -27,13 +27,13 @@
 ---
 
 ## Temas que se vienen
-- Semana Mié 20-Nov y Vie 22-Nov:
-	* Repaso, consultas y segundo examen.
+- Mié 27-Nov:
+	* Consultas pre recuperatorio.
 
 ---
 
 ## Fechas importantes
-- Segundo examen: Vie 22-Nov 14 hs.
+- Recuperatorio: Vie 27-Nov 14 hs.
 
 ---
 
